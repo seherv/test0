@@ -7,10 +7,5 @@ authors = [
 ]
 readme = "README.md"
 dependencies = [
-    "pytest~=8.3.3",
-    "fastapi~=0.115.2",
-    "httpx~=0.28.1",
-    "cachetools~=5.5.0",
-    "pytest-httpx~=0.35.0",
 ]
 version = "0.0.1"
